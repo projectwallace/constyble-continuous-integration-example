@@ -1,0 +1,12 @@
+{
+  "name": "constyble-continuous-integration-example",
+  "version": "1.0.0",
+  "description": "Test repository to demonstrate the use of Constyble in CI",
+  "author": "Bart Veneman",
+  "scripts": {
+    "test": "constyble styles/main.css"
+  },
+  "devDependencies": {
+    "constyble": "^1.1.0"
+  }
+}
