@@ -2,7 +2,7 @@
 	<h1>Constyble continuous integration example</h1>
 </center>
 
-This repository demonstrates how to use Constyble in a project as described in [this blog post](https://www.projectwallace.com/blog/TODO).
+This repository demonstrates how to use Constyble in a project as described in [this blog post](https://www.projectwallace.com/blog/integrating-constyble-into-ci-workflow/).
 
 ## Key points
 
