@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Constyble continuous integration example</h1>
-	<p>This repository demonstrates how to use Constyble in a project as described in [this blog post](https://www.projectwallace.com/blog/integrating-constyble-into-ci-workflow/).</p>
+	<p>This repository demonstrates how to use Constyble in a project as described in <a href="https://www.projectwallace.com/blog/integrating-constyble-into-ci-workflow/">this blog post</a>.</p>
 </div>
 
 
